@@ -2,8 +2,6 @@
 ! Expires: 5 days
 ! License: https://unlicense.org/
 ! Homepage: https://ubobl.github.io/filters/
-! Last modified: Sat, 10 Jan 2026 16:51:35 +0000
-! Version: 20260110165135
 ||0xxx.me^
 ||0xxx.ws^
 ||24porn.tv^
