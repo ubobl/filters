@@ -1,7 +1,7 @@
 # [filters](https://github.com/ubobl/filters/)
 [Subscribe to ubobl's Personal Blocklist](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fubobl%2Ffilters%2Frefs%2Fheads%2Fmain%2Fblocklist.txt&title=ubobl%27s%20Personal%20Blocklist)
 
-# LICENSE
+# [LICENSE](https://github.com/ubobl/filters/blob/main/LICENSE)
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
