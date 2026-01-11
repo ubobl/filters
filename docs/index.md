@@ -1,4 +1,4 @@
-# [filters - ubobl's Personal Blocklist](https://github.com/ubobl/filters/)
+# [filters](https://github.com/ubobl/filters/)
 [Subscribe to ubobl's Personal Blocklist](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fubobl%2Ffilters%2Frefs%2Fheads%2Fmain%2Fblocklist.txt&title=ubobl%27s%20Personal%20Blocklist)
 
 # LICENSE
