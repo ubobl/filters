@@ -1,4 +1,4 @@
-! Title: My uBlock Blocklist
+! Title: ubobl's Personal Blocklist
 ! Expires: 5 days
 ! License: https://unlicense.org/
 ! Homepage: https://ubobl.github.io/filters/
