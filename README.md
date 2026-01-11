@@ -1,5 +1,5 @@
-# [filters](https://github.com/ubobl/filters/)
-[Subscribe](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fubobl%2Ffilters%2Frefs%2Fheads%2Fmain%2Fbl.txt&title=My%20uBlock%20Blocklist)
+# [filters - ubobl's Personal Blocklist](https://github.com/ubobl/filters/)
+[Subscribe to ubobl's Personal Blocklist](ubo:subscribe?location=https%3A%2F%2Fraw.githubusercontent.com%2Fubobl%2Ffilters%2Frefs%2Fheads%2Fmain%2Fbl.txt&title=My%20uBlock%20Blocklist)
 
 # LICENSE
 This is free and unencumbered software released into the public domain.
