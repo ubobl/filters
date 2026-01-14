@@ -2,4 +2,3 @@
 ! Homepage: https://ubobl.github.io/filters/
 ! License: https://unlicense.org/
 ! Expires: 5 days
-! Version: 10
