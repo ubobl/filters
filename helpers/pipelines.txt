@@ -1,0 +1,3 @@
+tr '[:upper:]' '[:lower:]' < src/urls.txt | sed 's/^https:\/\///g' | cut -d "/" -f1 | sed 's/^www[0-9]*\.//g' | sort -u > $$ && mv $$ src/urls.txt
+
+cat <(grep -E '^!' blocklist.txt) <(awk '{print "||"$0"^"}' src/urls.txt) > $$ && mv $$ blocklist.txt
